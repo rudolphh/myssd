@@ -1,12 +1,12 @@
-## simple python script 
+# simple python script 
 
 for checking the current price of an ssd i want on amazon. :)
 
-# what you should have:
+## what you should have:
 - python3
 - beautifulsoup4 ( python3 -m pip install beautifulsoup4 )
 
-# the code
+## the code
 
 ```python
 #!/usr/bin/python3
